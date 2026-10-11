@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/anupr3594/DAA-Assingment/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anupr3594/DAA-Assingment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/anupr3594/DAA-Assingment/tree/master/0912-sort-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anupr3594/DAA-Assingment/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anupr3594/DAA-Assingment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/anupr3594/DAA-Assingment/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
