@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anupr3594/DAA-Assingment/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/anupr3594/DAA-Assingment/tree/master/0088-merge-sorted-array) |
 ## Quickselect
 |  |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anupr3594/DAA-Assingment/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/anupr3594/DAA-Assingment/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anupr3594/DAA-Assingment/tree/master/0005-longest-palindromic-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anupr3594/DAA-Assingment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anupr3594/DAA-Assingment/tree/master/2778-sum-of-squares-of-special-elements) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/anupr3594/DAA-Assingment/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
