@@ -91,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anupr3594/DAA-Assingment/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/anupr3594/DAA-Assingment/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
