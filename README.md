@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anupr3594/DAA-Assingment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/anupr3594/DAA-Assingment/tree/master/0912-sort-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anupr3594/DAA-Assingment/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anupr3594/DAA-Assingment/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anupr3594/DAA-Assingment/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
@@ -95,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/anupr3594/DAA-Assingment/tree/master/0507-perfect-number) |
+## Hash Table
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anupr3594/DAA-Assingment/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anupr3594/DAA-Assingment/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anupr3594/DAA-Assingment/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
