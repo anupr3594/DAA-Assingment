@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anupr3594/DAA-Assingment/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/anupr3594/DAA-Assingment/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/anupr3594/DAA-Assingment/tree/master/0125-valid-palindrome) |
 ## Quickselect
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anupr3594/DAA-Assingment/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/anupr3594/DAA-Assingment/tree/master/0125-valid-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anupr3594/DAA-Assingment/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
